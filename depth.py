@@ -9,7 +9,7 @@ subreddit_t3s = {}
 parent_posts = {}
 
 with sqlite3.connect("reddit.db", check_same_thread=False) as conn:
-    comments_query =  "SELECT id, parent_id, subreddit_id FROM comments LIMIT 1000"
+    comments_query =  "SELECT id, parent_id, subreddit_id FROM comments"
     comment_cur = conn.cursor()
     comment_cur.execute(comments_query)
     posts = comment_cur.fetchmany(num_cmt_to_fetch)
