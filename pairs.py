@@ -7,7 +7,7 @@ num_max_results = 10
 subreddit_authors = {}
 
 with sqlite3.connect("reddit.db", check_same_thread=False) as conn:
-    comments_query =  "SELECT author_id, subreddit_id FROM comments LIMIT 50000"
+    comments_query =  "SELECT author_id, subreddit_id FROM comments"
     comment_cur = conn.cursor()
     comment_cur.execute(comments_query)
     pairs = comment_cur.fetchmany(num_cmt_to_fetch)
