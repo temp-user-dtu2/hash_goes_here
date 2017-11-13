@@ -30,7 +30,7 @@ class ConsumerThread(Thread):
       global conn, subreddit_cur
       conn = sqlite3.connect("reddit.db", check_same_thread=False)
       subreddit_cur = conn.cursor()
-      subreddit_query =  """SELECT id, name FROM subreddits LIMIT """ + str(num_subreddits)
+      subreddit_query =  """SELECT id, name FROM subreddits"""
       subreddit_cur.execute(subreddit_query)
 
     # def runx(self):
