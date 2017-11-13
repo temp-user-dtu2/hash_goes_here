@@ -1,0 +1,15 @@
+pics          videos          t5_2qh0u t5_2qh1e 67090
+WTF           AskReddit       t5_2qh61 t5_2qh1i 71247
+pics          todayilearned   t5_2qh0u t5_2qqjc 71557
+funny         todayilearned   t5_2qh33 t5_2qqjc 71664
+AdviceAnimals AskReddit       t5_2s7tt t5_2qh1i 84457
+AskReddit     videos          t5_2qh1i t5_2qh1e 91975
+pics          funny           t5_2qh0u t5_2qh33 104903
+AskReddit     todayilearned   t5_2qh1i t5_2qqjc 105138
+pics          AskReddit       t5_2qh0u t5_2qh1i 138672
+funny         AskReddit       t5_2qh33 t5_2qh1i 141788
+
+
+real    24m27.328s
+user    0m0.000s
+sys     0m0.092s

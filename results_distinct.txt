@@ -1,0 +1,14 @@
+('t5_2s7tt', 'AdviceAnimals', 136510)
+('t5_2sgp1', 'pcmasterrace', 152096)
+('t5_2rfxx', 'leagueoflegends', 161670)
+('t5_2qh1e', 'videos', 186890)
+('t5_30uy0', 'subredditreports', 188477)
+('t5_2qqjc', 'todayilearned', 188578)
+('t5_2qh13', 'worldnews', 192090)
+('t5_2qh0u', 'pics', 206008)
+('t5_2qh33', 'funny', 220334)
+('t5_2qh1i', 'AskReddit', 551975)
+
+real    90m0.433s
+user    0m0.061s
+sys     0m0.077s

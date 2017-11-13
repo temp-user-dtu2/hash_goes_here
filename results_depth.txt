@@ -1,0 +1,15 @@
+('RidersOfBerk',      't5_3272o', 95.0)
+('YamakuHighSchool',  't5_33lo3', 95.10610687022901)
+('GalacticGuardians', 't5_323vp', 95.36363636363636)
+('rwbyRP',            't5_32s5j', 105.16279069767442)
+('ExploreFiction',    't5_2x15g', 107.58333333333333)
+('randomsuperpowers', 't5_2z5u0', 145.8764705882353)
+('TheTwoCenturions',  't5_366p4', 149.5)
+('counting',          't5_2u9jq', 397.3541666666667)
+('EroticRolePlay',    't5_2zlk4', 428.46666666666664)
+('SburbRP',           't5_33wg4', 445.18367346938777)
+
+real    199m31.433s
+user    0m0.061s
+sys     0m0.077s
+
